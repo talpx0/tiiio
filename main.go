@@ -1,4 +1,4 @@
-package main
+package tiiio
 
 type array[T, U any] []T
 
